@@ -1,4 +1,4 @@
-//Navpreet Kaur. Student ID V0082334
+//Navpreet Kaur
 //The objective of this program is to find minimum dominating set for a graph.
 //This code is written on the algorithim designed by Dr. Wendy Myrvold.
 
